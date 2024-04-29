@@ -94,6 +94,12 @@
     <Compile Include="AboutPNRMonitoring.Designer.cs">
       <DependentUpon>AboutPNRMonitoring.cs</DependentUpon>
     </Compile>
+    <Compile Include="AddaMultiUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddaMultiUnit.Designer.cs">
+      <DependentUpon>AddaMultiUnit.cs</DependentUpon>
+    </Compile>
     <Compile Include="MySqlController.cs" />
     <Compile Include="Dashboard.cs">
       <SubType>Form</SubType>
@@ -133,6 +139,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AddaLocomotive.resx">
       <DependentUpon>AddaLocomotive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddaMultiUnit.resx">
+      <DependentUpon>AddaMultiUnit.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
