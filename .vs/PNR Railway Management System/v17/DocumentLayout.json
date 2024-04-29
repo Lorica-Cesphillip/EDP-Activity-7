@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{DAAFBA23-9A97-4E60-A819-F21846CF0F17}|PNR Railway Management System.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAAFBA23-9A97-4E60-A819-F21846CF0F17}|PNR Railway Management System.csproj|c:\\users\\loric\\source\\repos\\edp-activity-7\\addamultiunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DAAFBA23-9A97-4E60-A819-F21846CF0F17}|PNR Railway Management System.csproj|C:\\Users\\loric\\source\\repos\\EDP-Activity-7\\addamultiunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DAAFBA23-9A97-4E60-A819-F21846CF0F17}|PNR Railway Management System.csproj|solutionrelative:addamultiunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "AddaMultiUnit.cs",
               "ToolTip": "C:\\Users\\loric\\source\\repos\\EDP-Activity-7\\AddaMultiUnit.cs",
               "RelativeToolTip": "AddaMultiUnit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABCAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wC4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T15:33:28.002Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "AddaLocomotive.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T01:13:27.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T01:13:27.962Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Dashboard.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T03:20:01.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T03:20:01.084Z"
             },
             {
               "$type": "Document",
@@ -120,8 +118,7 @@
               "ToolTip": "C:\\Users\\loric\\source\\repos\\EDP-Activity-7\\AddaMultiUnit.cs [Design]",
               "RelativeToolTip": "AddaMultiUnit.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T15:31:21.272Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-29T15:31:21.272Z"
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "ToolTip": "C:\\Users\\loric\\source\\repos\\EDP-Activity-7\\Welcome.cs [Design]",
               "RelativeToolTip": "Welcome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:46:51.63Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-17T08:46:51.63Z"
             },
             {
               "$type": "Document",
@@ -144,8 +140,7 @@
               "ToolTip": "C:\\Users\\loric\\source\\repos\\EDP-Activity-7\\Dashboard.cs [Design]",
               "RelativeToolTip": "Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T03:20:01.014Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-17T03:20:01.014Z"
             },
             {
               "$type": "Document",
@@ -157,8 +152,7 @@
               "RelativeToolTip": "Welcome.cs",
               "ViewState": "AQIAAIMAAAAAAAAAAAAwwJ0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T03:19:55.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T03:19:55.252Z"
             },
             {
               "$type": "Document",
