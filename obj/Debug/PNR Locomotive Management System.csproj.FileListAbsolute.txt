@@ -1,0 +1,11 @@
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\bin\Debug\PNR Locomotive Management System.exe.config
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\bin\Debug\PNR Locomotive Management System.exe
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\bin\Debug\PNR Locomotive Management System.pdb
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\obj\Debug\PNR Locomotive Management System.csproj.AssemblyReference.cache
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\obj\Debug\PNR_Locomotive_Management_System.Properties.Resources.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\obj\Debug\PNR Locomotive Management System.csproj.GenerateResource.cache
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\obj\Debug\PNR Locomotive Management System.csproj.CoreCompileInputs.cache
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\obj\Debug\PNR Locomotive Management System.exe
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\obj\Debug\PNR Locomotive Management System.pdb
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\obj\Debug\PNR_Locomotive_Management_System.Welcome.resources
+C:\Users\loric\OneDrive\Documents\3rd year\2nd Sem\Event Driven Programming\PNR Locomotive Management System\obj\Debug\PNR_Locomotive_Management_System.LogIn.resources
